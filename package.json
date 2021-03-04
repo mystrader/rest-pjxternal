@@ -1,0 +1,23 @@
+{
+  "name": "rest-pjxternal",
+  "version": "1.0.0",
+  "description": "test de rest com deploy no heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystrader/rest-pjxternal.git"
+  },
+  "keywords": [],
+  "author": "mystrah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystrader/rest-pjxternal/issues"
+  },
+  "homepage": "https://github.com/mystrader/rest-pjxternal#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
